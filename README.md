@@ -7,7 +7,7 @@
 ### [북스토어 프로젝트]
 - [북스토어(리뷰API)](https://github.com/RT9mp/Review-API)
 
-### [북스토어 프로젝트]
+### [캡스톤 디자인]
 [캡스톤디자인(차량수리비 도출 일부)](https://github.com/RT9mp/CRC)
 
 
