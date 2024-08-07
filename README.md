@@ -1,6 +1,6 @@
 ## 주요 프로젝트
 
-### 미니 두레이 프로젝
+### 미니 두레이 프로젝트
 간단한 프로젝트 설명 및 기술 스택.
 - [GitHub 링크]([https://github.com/yourusername/project1](https://github.com/GJ-BE-6/mini-dooray-h-account))
 
