@@ -5,7 +5,7 @@
 - [미니 두레이(Gateway)](https://github.com/GJ-BE-6/mini-dooray-h-gateway)
 
 ### [북스토어 프로젝트]
-- [GitHub 링크](https://github.com/GJ-BE-6/mini-dooray-h-account)
+- [북스토어(리뷰API)](https://github.com/RT9mp/Review-API)
 
 ## 기술 스택
 
