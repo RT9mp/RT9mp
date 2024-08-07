@@ -1,16 +1,20 @@
-## Hi there 👋
+## 주요 프로젝트
 
-<!--
-**RT9mp/RT9mp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 미니 두레이 프로젝
+간단한 프로젝트 설명 및 기술 스택.
+- [GitHub 링크]([https://github.com/yourusername/project1](https://github.com/GJ-BE-6/mini-dooray-h-account))
 
-Here are some ideas to get you started:
+### [프로젝트 이름 2]
+프로젝트 설명 및 주요 기능.
+- [GitHub 링크](https://github.com/yourusername/project2)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 기술 스택
+
+- **Languages**: Java, Python, C
+- **Frameworks**: Spring Boot
+- **Tools**: 
+
+## 연락처
+
+- **이메일**: azurek0922@naver.com
+
