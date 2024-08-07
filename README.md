@@ -2,11 +2,11 @@
 
 ### 미니 두레이 프로젝트
 간단한 프로젝트 설명 및 기술 스택.
-- [GitHub 링크](https://github.com/yourusername/project1](https://github.com/GJ-BE-6/mini-dooray-h-account)
+- [GitHub 링크](https://github.com/GJ-BE-6/mini-dooray-h-account)
 
 ### [프로젝트 이름 2]
 프로젝트 설명 및 주요 기능.
-- [GitHub 링크](https://github.com/yourusername/project2)
+- [GitHub 링크](https://github.com/GJ-BE-6/mini-dooray-h-account)
 
 ## 기술 스택
 
