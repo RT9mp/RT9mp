@@ -7,11 +7,6 @@
 ### [북스토어 프로젝트]
 - [북스토어(리뷰API)](https://github.com/RT9mp/Review-API)
 
-## 기술 스택
-
-- **Languages**: Java, Python, C
-- **Frameworks**: Spring Boot
-- **Tools**: 
 
 ## 연락처
 
